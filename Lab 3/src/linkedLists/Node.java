@@ -1,4 +1,4 @@
-package linkedLists;
+package linkedLists; 
 
 public interface Node<E> {
 	public E getElement();

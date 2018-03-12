@@ -1,4 +1,4 @@
-package linkedLists;
+package linkedLists; 
 
 public abstract class AbstractLinkedList<E> implements LinkedList<E> {
 

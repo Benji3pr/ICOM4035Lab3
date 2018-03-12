@@ -1,4 +1,4 @@
-package linkedLists;
+package linkedLists; 
 /**
  * Singly linked list with references to its first and its
  * last node. 

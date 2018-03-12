@@ -1,4 +1,4 @@
-package indexList;
+package indexList; 
 
 import linkedLists.LinkedList;
 import linkedLists.Node;
@@ -16,7 +16,7 @@ public class LLIndexList<E> implements IndexList<E> {
 
 	/**
 		Determines the size of the list. 
-		@return size of the list – number of elements. 
+		@return size of the list ï¿½ number of elements. 
 	 **/
 	public int size() { 
 		return internalLL.length(); 
@@ -57,7 +57,7 @@ public class LLIndexList<E> implements IndexList<E> {
 		@param e the new element to insert. 
 		@throws IndexOutOfBoundsException if the index
 			i does not corresponds to the index 
-			of a valid position to insert…
+			of a valid position to insertï¿½
 	 **/ 
 	public void add(int index, E e) 
 	throws IndexOutOfBoundsException 

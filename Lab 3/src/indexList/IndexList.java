@@ -1,4 +1,4 @@
-package indexList;
+package indexList; 
 
 public interface IndexList<E> {
     /**
